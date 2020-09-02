@@ -2,7 +2,8 @@
 
 ## Description
 
-Aye-P takes in one file of line seperated IPv4 adresses and sorts it to one file of single IP addresses per line.
+Aye-P takes in one file of various IP address formats and sorts it to one file of single IP addresses per line.
+Note, it only does IPv4.
 
 Aye-P can take the following format of IP addresses:
 - 127.0.0.1 (singular)
